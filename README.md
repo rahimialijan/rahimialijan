@@ -1,45 +1,79 @@
 
-# Alijan Rahimi
+<!-- ### ✨  ✨
 
-## About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
-I'm Alijan Rahimi, a passionate and results-driven Full Stack Developer from Afghanistan.
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
-## Skills
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Alijan;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
 
-- **Front-end**: HTML, CSS, JavaScript, React, Angular
-- **Back-end**: Node.js, Ruby.
-- **Version Control**: Git, GitHub
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimialijan&label=Profile%20views&color=0e75b6&style=flat" alt="rahimialijan" /> </p>
 
-## Projects
+## ✨About Me
+```javascript
+const alijanrahimi = {
+  country: "Afghanistan",
+  pronouns: ["He", "Him"],
+  status: "open to new opportunities",
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+          Tailwind CSS, Material UI],
+  challenge: "I am actively refining and augmenting my technical prowess and professional aptitude as I wholeheartedly engage in continuous learning and self-improvement within the esteemed ecosystem of Microverse",
+  funFacts: ['With a distinguished academic background, holding a bachelor's degree in computer         science, and enriched by a commendable tenure of 6 years in the dynamic IT industry, I have cultivated a profound skill set encompassing effective communication, meticulous task execution, and astute time management.']
+}
+```
+  <br>
+  
+## ✨ GitHub Stats
+<br>
+<div align="center">
+  <a>
+    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=rahimialijan&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="rahimialijan" />
+  </a>
+  
+  <a>
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimialijan&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="rahimialijan" />
+  </a>
+  
+  <a>
+    <img width="50%" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=rahimialijan&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+         alt="rahimialijan" />
+  </a>
+</div> 
+   
+<br>
+<br>
+  
+## ✨ Languages and Tools
+<br>
+<div> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,react,redux,postgres,postman,tailwind,nodejs" />
+    </a>
+  </p>
+</div>
 
-### Project 1: E-commerce Platform
+<p align="center">
+  <a href="https://www.linkedin.com/in/alijan-rahimi-18389ab3">
+    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
-An end-to-end e-commerce platform that enables users to browse products, add items to their cart, and securely complete purchases. Developed using React, Node.js, and MongoDB.
-
-- GitHub Repository: [Project 1 Repository](https://github.com/your-username/project-1)
-- Live Demo: [Project 1 Demo](https://your-username.github.io/project-1)
-
-### Project 2: Task Management App
-
-A task management application that helps teams collaborate and stay organized. Built with React, Express.js, and PostgreSQL, it provides features like task assignment, due dates, and progress tracking.
-
-- GitHub Repository: [Project 2 Repository](https://github.com/your-username/project-2)
-- Live Demo: [Project 2 Demo](https://your-username.github.io/project-2)
-
-## Contributions
-
-I'm an advocate for open-source software and have contributed to various projects. Here are some noteworthy contributions:
-
-- [Project X](https://github.com/open-source/project-x): Implemented feature Y and refactored code for performance optimization.
-- [Project Y](https://github.com/open-source/project-y): Resolved bug Z and enhanced the user interface.
-
-## Contact Me
-
-I'm always interested in new opportunities and collaborations. Let's connect and discuss how we can work together on exciting projects.
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Portfolio: [Your Portfolio Website](https://your-portfolio.com)
-
-Looking forward to hearing from you!
+<!-- ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg) -->
