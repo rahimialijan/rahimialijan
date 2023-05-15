@@ -3,14 +3,12 @@
 
 ## About Me
 
-I'm Alijan Rahimi, a passionate and results-driven Full Stack Developer from Afghanistan. With a strong foundation in web development and a knack for problem-solving, I strive to create impactful and user-centric applications. I enjoy working with cutting-edge technologies and collaborating with cross-functional teams to deliver high-quality software solutions.
+I'm Alijan Rahimi, a passionate and results-driven Full Stack Developer from Afghanistan.
 
 ## Skills
 
 - **Front-end**: HTML, CSS, JavaScript, React, Angular
-- **Back-end**: Node.js, Express.js, Python, Django
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **DevOps**: Docker, AWS, Heroku, CI/CD
+- **Back-end**: Node.js, Ruby.
 - **Version Control**: Git, GitHub
 
 ## Projects
