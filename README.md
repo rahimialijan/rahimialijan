@@ -28,10 +28,10 @@ const alijanrahimi = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
   challenge: "I am actively refining and augmenting my technical prowess and professional aptitude 
-  as I wholeheartedly engage in continuous learning and self-improvement within the esteemed ecosystem of Microverse",
+          as I wholeheartedly engage in continuous learning and self-improvement within the esteemed ecosystem of Microverse",
   funFacts: ['With a distinguished academic background, holding a bachelor's degree in computer science, and enriched by 
-  a commendable tenure of 6 years in the dynamic IT industry, I have cultivated a profound skill set encompassing effective 
-  communication, meticulous task execution, and astute time management.']
+          a commendable tenure of 6 years in the dynamic IT industry, I have cultivated a profound skill set encompassing 
+          effective communication, meticulous task execution, and astute time management.']
 }
 ```
   <br>
