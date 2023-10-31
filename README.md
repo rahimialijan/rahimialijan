@@ -62,10 +62,10 @@ const alijanrahimi = {
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,figma,ps,jest,ruby,rails" />
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,react,redux,postgres,postman,tailwind,nodejs" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,react,redux,postgres,postman,tailwind,nodejs,nextjs" />
     </a>
   </p>
 </div>
