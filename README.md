@@ -39,21 +39,18 @@ const alijanrahimi = {
 ## ✨ GitHub Stats
 <br>
 <div align="center">
-  <a>
-    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=rahimialijan&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="rahimialijan" />
-  </a>
-  
-  <a>
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimialijan&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="rahimialijan" />
-  </a>
-  
-  <a>
-    <img width="50%" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=rahimialijan&theme=vue-dark&bg_color=0d1117&hide_border=true" 
-         alt="rahimialijan" />
-  </a>
-</div> 
-   
+  <img  width="45%" 
+    src="https://github-readme-stats.vercel.app/api?username=rahimialijan&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
+    alt="rahimialijan" 
+  />
+  <img  width="47.5%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rahimialijan&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+    alt="ab-noori" 
+  />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimialijan&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"   alt="rahimialijan" />
+</div>
 <br>
 <br>
   
