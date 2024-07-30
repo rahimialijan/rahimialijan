@@ -19,10 +19,14 @@
 
 - ⚡ Fun fact **In code we Trust**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Alijanrahimi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alijanrahimi10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alijan-rahimi-18389ab3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijan-rahimi-18389ab3" height="30" width="40" /></a>
+<h3 style="display: inline-block; margin-right: 10px;">Connect with me:</h3>
+<p style="display: inline-block;">
+  <a href="https://twitter.com/Alijanrahimi10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alijanrahimi10" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/alijan-rahimi-18389ab3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijan-rahimi-18389ab3" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
