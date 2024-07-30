@@ -7,14 +7,15 @@
 <p align="left"> <a href="https://twitter.com/AlijanRahimi10" target="blank"><img src="https://img.shields.io/twitter/follow/AlijanRahimi10?logo=twitter&style=for-the-badge" alt="AlijanRahimi10" /></a> </p>
 
 - 🔭 I’m currently working at **AAk Tele-Science as a front-end and UI/UX developer.**
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://alijanrahimi.netlify.app/](https://alijanrahimi.netlify.app/)
 
 - 💬 Ask me about **JAVASCRIPT|TYPESCRIPT|RUBY|RAILS|**
 
-- 📫 How to reach me **alijanrahimi1990@gmail.com|alijan_rahimi@aakscience.com**
+- 📫 How to reach me:  
+  **alijanrahimi1990@gmail.com**  
+  **alijan_rahimi@aakscience.com**
 
 - ⚡ Fun fact **In code we Trust**
 
