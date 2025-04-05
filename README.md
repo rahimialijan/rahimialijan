@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at **AAk Tele-Science as a front-end and UI/UX developer.**
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://alijanrahimi.netlify.app/](https://alijanrahimi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alijanrahimi.netlify.app/](https://alijanportfolio.vercel.app/)
 
 - 💬 Ask me about **JAVASCRIPT|TYPESCRIPT|RUBY|RAILS|**
 
